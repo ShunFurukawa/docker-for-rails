@@ -22,3 +22,24 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+## command
+
+```
+$ bundle init
+
+$ vim Gemfile
+
+$ git init
+
+$ bundle install
+
+$ git remote add origin https://github.com/xxxxxxx
+
+$ git push -u origin master
+
+$ bundle exec rails new .
+
+$ .......
+```
