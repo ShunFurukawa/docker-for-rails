@@ -43,3 +43,9 @@ $ bundle exec rails new .
 
 $ .......
 ```
+
+```
+$ docker-compose build
+
+$ docker-compose up
+```
